@@ -1,4 +1,4 @@
-# Dicee 🎲
+# Dicee
 
 ## Our Goal
 
